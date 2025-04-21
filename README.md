@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! My name is Vlad</h2>
 
+<h2>I'm Node.js developer</h2>
+
 ###
 
 <div align="center">
@@ -13,7 +15,7 @@
 
 ###
 
-<img align="center" height="150" src="https://media.giphy.com/media/TK6MSDzAmC8LAC7LpG/giphy.gif?cid=ecf05e47h69s3rde78huiokkuvstqaz4eyswgi7ie460fm4e&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="150" src="https://media.giphy.com/media/nDlkmvco8lR7oPYKaY/giphy.gif?cid=ecf05e47xscspdfjysxxhphsbdwbgnc1a7mwre1jx2gni5j1&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
