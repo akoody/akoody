@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Vlad</h2>
 
-<h3>I'm Node.js developer</h3>
+<h3>I'm Node.js developer<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  /></h3> 
 
 ###
 
@@ -48,11 +48,11 @@
 ###
 
 <div align="center">
-  <a href="https://t.me/akoodyy" target="_blank">
+  <a href="https://t.me/akoodyy">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
-  <a href="vladislav_caracicovschi@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=vladislav_caracicovschi@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="vladislav_caracicovschi@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=GMAIL&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
                 </a>
 
 </div>
