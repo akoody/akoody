@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Vlad</h2>
 
-<h3>I'm Node.js developer<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  /></h3> 
+<h3>I'm Node.js developer <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="15" alt="nodejs logo"  /></h3> 
 
 ###
 
