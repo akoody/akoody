@@ -51,7 +51,7 @@
   <a href="https://t.me/akoodyy">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
-  <a href="vladislav_caracicovschi@gmail.com">
+  <a href="vladislav.c282005@gmail.com">
   <img src="https://img.shields.io/static/v1?message=GMAIL&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
                 </a>
 
