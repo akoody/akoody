@@ -19,7 +19,6 @@
 </div>
 
 <br/>
-<br/>
 
 <h3 align="center">🧠 Backend</h3>
 <p align="center">
