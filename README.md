@@ -1,12 +1,12 @@
 <h2 align="center">Hi 👋! My name is Vlad</h2>
 
 <h3 align="center">
-  Backend Engineer | Node.js
+  Fullstack Engineer | Node.js
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="16" alt="nodejs logo" />
 </h3>
 
 <p align="center">
-  I build scalable backend systems, APIs and integrations.<br/>
+  I build scalable backend systems, fullstack apps, APIs and integrations.<br/>
   Focus on architecture, reliability and performance.
 </p>
 
