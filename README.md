@@ -1,34 +1,58 @@
+<h2 align="center">Hi 👋! My name is Vlad</h2>
+
+<h3 align="center">
+  Fullstack Engineer | Node.js
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="16" alt="nodejs logo" />
+</h3>
+
 <p align="center">
-  <img src="assets/banner.png" alt="Vladislav — Fullstack Engineer" width="100%" />
+  I build scalable backend systems, fullstack apps, APIs and integrations.<br/>
+  Focus on architecture, reliability and performance.
 </p>
 
-# Владислав
+<br/>
 
-Backend / fullstack-разработчик: Node.js и TypeScript. Делаю серверные системы, интеграции с внешними API, Telegram-приложения и автоматизацию. Кишинёв.
+<div align="center">
+  <img height="130" src="https://media.giphy.com/media/lqWenyKaKEago/giphy.gif" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="130" src="https://media.giphy.com/media/nDlkmvco8lR7oPYKaY/giphy.gif" />
+</div>
 
-### Как я работаю
+<br/>
 
-- **Изменения — через PR**: в описании проблема, решение, чем проверено и что сознательно отложено.
-- **Решения записываю** в журнал (ADR): контекст, отвергнутые варианты, цена решения.
-- **Тестирую поведение, а не строки**: e2e на настоящей базе, проверка, что тест ловит регрессию.
-- **Безопасность по умолчанию**: доступ к данным ограничен владельцем, секреты только в окружении, конфигурация проверяется при старте.
-- **Строгие типы и CI**: `strict` TypeScript, линтер без warning, сборка и тесты на каждый PR.
+<h3 align="center">🧠 Backend</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="32"/>
+</p>
 
-### Проекты
+<h3 align="center">🗄 Databases & Infra</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32"/>
+</p>
 
-| Проект | О чём | Стек |
-|---|---|---|
-| [**Capy**](https://github.com/akoody/Capy) | Telegram Mini App для личных финансов с голосовым ассистентом. Модульный монолит, доступ к данным по владельцу, LLM-провайдеры с fallback, e2e на MongoDB, [журнал решений](https://github.com/akoody/Capy/tree/main/docs/adr) | NestJS, MongoDB, React |
-| [**Pitch Signal**](https://github.com/akoody/pitch-signal) | Объяснимая аналитика футбольных трендов: угловые, карточки, фолы, удары. Монорепо: API, веб, доменное ядро и адаптеры провайдеров данных | Fastify, PostgreSQL, React |
-| [**Tracecase**](https://github.com/akoody/tracecase) | Расследование инцидентов в бэкенде с доказательствами: локальные инструменты, воспроизводимые сценарии отказов и набор оценок | TypeScript, pnpm workspaces |
-| [**OrderHub**](https://github.com/akoody/orderhub) | Сервис заказов и платежей: идемпотентность запросов и доставка событий через outbox | TypeScript, PostgreSQL, Prisma |
-| [**Verde Market**](https://github.com/akoody/verde-market) | Маркетплейс фермерских продуктов: заказы у нескольких продавцов, кабинет фермера и модерация, транзакции MongoDB, защита от повторного списания | Next.js, MongoDB |
-| [**TransCheck Bot**](https://github.com/akoody/transcheck-bot) | Мониторинг USDT-переводов в BEP20 и TRC20: RPC с резервными пулами, ретраи, обработка лимитов | Node.js, Telegram Bot API |
+<h3 align="center">🎨 Frontend</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32"/>
+</p>
 
-### Стек
+<br/>
 
-**Backend:** Node.js, TypeScript, NestJS, Fastify, Express · **Данные:** PostgreSQL, MongoDB, Redis, Prisma · **Frontend:** React, Next.js, Vite · **Инфраструктура:** Docker, GitHub Actions, nginx
-
-### Связь
-
-[Telegram](https://t.me/akoodyy) · [vladislav.c282005@gmail.com](mailto:vladislav.c282005@gmail.com) · [vladislavc.online](https://vladislavc.online)
+<div align="center">
+  <a href="https://t.me/akoodyy">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35"/>
+  </a>
+  &nbsp;
+  <a href="mailto:vladislav.c282005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
+  </a>
+</div>
