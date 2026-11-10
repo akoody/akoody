@@ -1,4 +1,4 @@
-<img src="assets/profile-cover.png" width="100%" alt="Vlad, Fullstack Engineer, Node.js" />
+<img src="assets/profile-cover.png?v=4" width="100%" alt="Vlad, Fullstack Engineer, Node.js" />
 
 <br/>
 
